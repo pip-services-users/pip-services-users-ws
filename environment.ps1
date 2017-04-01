@@ -5,7 +5,6 @@ $global:Services = @(
     'pip-services-passwords-node'
     'pip-services-roles-node'
     'pip-services-sessions-node'
-    'pip-services-settings-node'
 )
 
 $global:Clients = @(
@@ -15,5 +14,4 @@ $global:Clients = @(
     'pip-clients-passwords-node'
     'pip-clients-roles-node'
     'pip-clients-sessions-node'
-    'pip-clients-settings-node'
 )
