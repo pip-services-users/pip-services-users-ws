@@ -6,8 +6,8 @@
 /pip-services-activities-node
 /pip-clients-activities-node
 
-/pip-services-users-node
-/pip-clients-users-node
+/pip-services-accounts-node
+/pip-clients-accounts-node
 
 /pip-services-passwords-node
 /pip-clients-passwords-node
@@ -18,5 +18,3 @@
 /pip-services-sessions-node
 /pip-clients-sessions-node
 
-/pip-services-settings-node
-/pip-clients-settings-node

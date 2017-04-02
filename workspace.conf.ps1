@@ -2,14 +2,14 @@ $VersionControl = 'git'
 $VersionControlRepos = @(
 	"https://github.com/pip-services/pip-services-devenv.git"
 
-	"https://github.com/pip-services-users/pip-services-email-node.git"
-	"https://github.com/pip-services-users/pip-clients-email-node.git"
-
 	"https://github.com/pip-services-users/pip-services-activities-node.git"
 	"https://github.com/pip-services-users/pip-clients-activities-node.git"
 
-	"https://github.com/pip-services-users/pip-services-users-node.git"
-	"https://github.com/pip-services-users/pip-clients-users-node.git"
+	"https://github.com/pip-services-users/pip-services-accounts-node.git"
+	"https://github.com/pip-services-users/pip-clients-accounts-node.git"
+
+	"https://github.com/pip-services-users/pip-services-email-node.git"
+	"https://github.com/pip-services-users/pip-clients-email-node.git"
 
 	"https://github.com/pip-services-users/pip-services-passwords-node.git"
 	"https://github.com/pip-services-users/pip-clients-passwords-node.git"
