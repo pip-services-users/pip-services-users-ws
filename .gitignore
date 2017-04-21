@@ -3,6 +3,9 @@
 /pip-services-email-node
 /pip-clients-email-node
 
+/pip-services-emailsettings-node
+/pip-clients-emailsettings-node
+
 /pip-services-activities-node
 /pip-clients-activities-node
 
