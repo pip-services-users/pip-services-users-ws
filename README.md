@@ -8,8 +8,6 @@ The workspace enables build, test, and release across the following projects:
 - **pip-services-devenv** - dockerized infrastructure services for development and testing
 - **pip-services-email-node** - Email sendins microservice in Node.js
 - **pip-clients-email-node** - Client to Email sending microservice in Node.js
-- **pip-services-emailsettings-node** - User email settings microservice in Node.js
-- **pip-clients-emailsettings-node** - Client to User email settings microservice in Node.js
 - **pip-services-activities-node** - User activities microservice in Node.js
 - **pip-clients-activities-node** - Client to User activities microservice in Node.js
 - **pip-services-users-node** - User account microservice in Node.js
