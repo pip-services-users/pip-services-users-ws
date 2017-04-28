@@ -5,6 +5,7 @@ $global:Services = @(
     'pip-services-passwords-node'
     'pip-services-roles-node'
     'pip-services-sessions-node'
+    'pip-facade-users-node'
 )
 
 $global:Clients = @(

@@ -20,6 +20,7 @@ The workspace enables build, test, and release across the following projects:
 - **pip-clients-sessions-node** - Client to Session management microservice in Node.js
 - **pip-services-settings-node** - User settings microservice in Node.js
 - **pip-clients-settings-node** - Client to User settings microservice in Node.js
+- **pip-facade-users-node** - Facade operations for user management microservices in Node.js
 
 ## Installation
 

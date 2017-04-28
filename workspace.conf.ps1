@@ -19,4 +19,6 @@ $VersionControlRepos = @(
 
 	"https://github.com/pip-services-users/pip-services-sessions-node.git"
 	"https://github.com/pip-services-users/pip-clients-sessions-node.git"
+
+	"https://github.com/pip-services-users/pip-facade-users-node.git"
 )
