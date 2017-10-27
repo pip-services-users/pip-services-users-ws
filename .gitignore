@@ -12,6 +12,9 @@
 /pip-services-smssettings-node
 /pip-clients-smssettings-node
 
+/pip-services-msgdistribution-node
+/pip-clients-msgdistribution-node
+
 /pip-services-activities-node
 /pip-clients-activities-node
 
